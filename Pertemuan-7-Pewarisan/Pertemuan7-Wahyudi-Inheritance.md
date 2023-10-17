@@ -176,5 +176,6 @@ konstruktor C dijalankan
 [Tugas](Tugas)
 
 **Hasil Running**
+
 ![RUN](img/TR1.jpg)
 ![RUN](img/TR2.jpg)
