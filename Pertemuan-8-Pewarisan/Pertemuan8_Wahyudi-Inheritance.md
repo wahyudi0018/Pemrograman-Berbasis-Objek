@@ -77,4 +77,4 @@ System.out.println("Gaji Bersih     = " + (gaji + lembur - potongan - asuransi))
 
 **Hasil Running**
 
-![UML](img/RUN.png)
+![RUN](img/RUN.png)
