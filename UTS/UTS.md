@@ -174,7 +174,7 @@ public class Mahasiswa {
 
 **Jawab:**
 
-[Soal5](soal5)
+[Soal5](Soal5)
 
 **Hasil running**
 
