@@ -11,7 +11,7 @@
 
 **Hasil Running**
 
-![RUN](img/P11.png)
+![RUN](img/P11.png) <br>
 ![RUN](img/P12.png)
 
 ## 4. Latihan
